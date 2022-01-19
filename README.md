@@ -33,7 +33,7 @@ The `Data` folder contains:
             *FD.SLA*: Functional diversity of the trait specific leaf area\
             *FD.LDMC* Functional diversity of the trait leaf dry-matter content\
             *FD.Hmax*: Functional diversity of the trait maximum height\
-            *NetCarbonChange.std, AGWP.std, Mortality.std, TaxDiv.std, FD.std, PD.std*: The same variables as previous mentioned, but standardized.\
+            *NetCarbonChange.std, AGWP.std, Mortality.std, TaxDiv.std, FD.std, PD.std*: The same variables as previous mentioned, but standardized.
             
     
 
