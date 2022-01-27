@@ -14,7 +14,7 @@ head(data)
 std <- decostand(data[,7:17], method = "standardize",na.rm = T) 
 head(std)
 
-#new df containing standardized data
+#new dataframe containing standardized data
 variables <- cbind(data[,1:6],std) 
 head(variables)
 
