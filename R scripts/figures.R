@@ -1,4 +1,4 @@
-# Loead packages -----
+# Load packages -----
 library(ggplot2) #figures
 
 # Figures -----
