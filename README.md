@@ -16,9 +16,9 @@ The `Data` folder contains:
 2. Processed data from 55 forest communities\
     2.1 *data.txt* - txt. file containing data 55 forest communities\
       2.1.1 *data.txt* contains the following data:\
+            *ForestAge*: categories of fores age, i.e.: 15-25, 26-50 or >50 years\
             *PlotCode*: plot name\
             *PlotArea*: Original sampled area (in hectares)\
-            *ForestAge*: categories of fores age, i.e.: 15-25, 26-50 or >50 years\
             *Latitude*: Latitude in decimal degrees\
             *Longitude*: Longitude in decimal degrees\
             *Weight*: plot+census interval weight (see the paper for details)\
@@ -29,13 +29,7 @@ The `Data` folder contains:
             *TaxDiv*: Taxonomic diversity\
             *FD*: Functional diversity\
             *PD*: Phylogenetic diversity\
-            *FD.WD*: Functional diversity of the trait wood density\
-            *FD.SLA*: Functional diversity of the trait specific leaf area\
-            *FD.LDMC* Functional diversity of the trait leaf dry-matter content\
-            *FD.Hmax*: Functional diversity of the trait maximum height\
-            *NetCarbonChange.std, AGWP.std, Mortality.std, TaxDiv.std, FD.std, PD.std*: The same variables as previous mentioned, but standardized.
-            
-    
+   
 
     
     
