@@ -1,6 +1,6 @@
-# CarbonSink_subtropicalBAF
 
-Bordin et al.: Functional diversity positively affects carbon sink in the subtropical Brazilian Atlantic Forest 
+Manuscript: Bordin et al.2023 - No relationship between biodiversity and forest carbon sink across the subtropical Brazilian Atlantic Forest 
+at journal *Perspectives in Ecology and Conservation*
 
 Codes from the data analysis and figures
 
@@ -15,21 +15,21 @@ The `Data` folder contains:
 
 2. Processed data from 55 forest communities\
     2.1 *data.txt* - txt. file containing data 55 forest communities\
-      2.1.1 *data.txt* contains the following data:\
-            *PlotCode*: plot name\
-            *ForestAge*: categories of fores age, i.e.: 15-25, 26-50 or >50 years\
-            *PlotArea*: Original sampled area (in hectares)\
-            *CensusInterval*: census interval, in years\
-            *Latitude*: Latitude in decimal degrees\
-            *Longitude*: Longitude in decimal degrees\
-            *Weight*: plot+census interval weight (see the paper for details)\
-            *AGC*: Above-ground Carbon Stocks (Mg/ha) across all forest communities\
-            *AGWP*: Above-ground Wood Carbon Productivity (Mg/ha/yr) across forest communities\
-            *Mortality*: Carbon loss through mortality (Mg/ha/yr) across forest communtiies\
-            *NetCarbonChange*: The balance between AGWP and Mortality across forest communities\
-            *TaxDiv*: Taxonomic diversity\
-            *FD*: Functional diversity\
-            *PD*: Phylogenetic diversity
+      2.1.1 *data.txt* contains the following data\
+              *PlotCode*: plot name\
+              *ForestAge*: categories of fores age, i.e.: 15-25, 26-50 or >50 years\
+              *PlotArea*: Original sampled area (in hectares)\
+              *CensusInterval*: census interval, in years\
+              *Latitude*: Latitude in decimal degrees\
+              *Longitude*: Longitude in decimal degrees\
+              *Weight*: plot+census interval weight (see the paper for details)\
+              *AGC*: Above-ground Carbon Stocks (Mg/ha) across all forest communities\
+              *AGWP*: Above-ground Wood Carbon Productivity (Mg/ha/yr) across forest communities\
+              *Mortality*: Carbon loss through mortality (Mg/ha/yr) across forest communtiies\
+              *NetCarbonChange*: The balance between AGWP and Mortality across forest communities\
+              *TaxDiv*: Taxonomic diversity\
+              *FD*: Functional diversity\
+              *PD*: Phylogenetic diversity
    
 
     
