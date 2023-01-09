@@ -28,7 +28,7 @@ The `Data` folder contains:
             *NetCarbonChange*: The balance between AGWP and Mortality across forest communities\
             *TaxDiv*: Taxonomic diversity\
             *FD*: Functional diversity\
-            *PD*: Phylogenetic diversity\
+            *PD*: Phylogenetic diversity
    
 
     
