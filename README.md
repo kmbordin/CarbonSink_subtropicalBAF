@@ -1,4 +1,5 @@
-DOI: 10.5281/zenodo.7516716
+[![DOI](https://zenodo.org/badge/439885870.svg)](https://zenodo.org/badge/latestdoi/439885870)
+
 
 
 Manuscript: Bordin et al.2023 - No relationship between biodiversity and forest carbon sink across the subtropical Brazilian Atlantic Forest 
