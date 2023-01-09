@@ -16,9 +16,10 @@ The `Data` folder contains:
 2. Processed data from 55 forest communities\
     2.1 *data.txt* - txt. file containing data 55 forest communities\
       2.1.1 *data.txt* contains the following data:\
-            *ForestAge*: categories of fores age, i.e.: 15-25, 26-50 or >50 years\
             *PlotCode*: plot name\
+            *ForestAge*: categories of fores age, i.e.: 15-25, 26-50 or >50 years\
             *PlotArea*: Original sampled area (in hectares)\
+            *CensusInterval*: census interval, in years\
             *Latitude*: Latitude in decimal degrees\
             *Longitude*: Longitude in decimal degrees\
             *Weight*: plot+census interval weight (see the paper for details)\
@@ -28,7 +29,7 @@ The `Data` folder contains:
             *NetCarbonChange*: The balance between AGWP and Mortality across forest communities\
             *TaxDiv*: Taxonomic diversity\
             *FD*: Functional diversity\
-            *PD*: Phylogenetic diversity\
+            *PD*: Phylogenetic diversity
    
 
     
