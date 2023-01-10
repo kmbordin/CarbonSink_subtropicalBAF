@@ -1,4 +1,4 @@
-# Loead packages -----
+# Load packages -----
 library(ggplot2) #figures
 
 # Figures -----
@@ -32,7 +32,7 @@ ggplot(data, aes(x = ForestAge, y = NetCarbonChange,color=ForestAge)) +
                      na.translate=FALSE) +
   geom_violin(size=0.7, 
               color="gray20")+
-  stat_summary(colour="gray20"
+  stat_summary(colour="gray10"
                , geom = "point")+
   geom_jitter(size=3, 
               alpha=0.6) +

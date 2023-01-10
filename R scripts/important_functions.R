@@ -1,7 +1,7 @@
 #You may find some important functions below
 #See also Supplementary Information 2
 
-#unction to convert factor to numeric
+#function to convert factor values to numeric
 f2n <- function(f) {  
   if(!is.factor(f)) 
   stop("the input must be a factor") 
@@ -23,10 +23,9 @@ Lann<- function (Bs0,B0,Bt,t){
   ((1-((Bs0/B0)^(1/t)))*(Bt-B0))/((t*(((Bt/B0)^(1/t))-1)))
 }
 
-
 #Above-ground biomass estimation: 
 require(BiomasaFP)
-BiomasaFP::AGBChv14 
+BiomasaFP:: AGBChv14 
 
 #Taxonomic diversity: 
 require(vegan)
@@ -38,7 +37,7 @@ FD:: dbFD
 
 #Phylogenetic tree construction: 
 require(V.PhyloMaker)
-V.PhyloMaker::phylo.maker
+V.PhyloMaker:: phylo.maker
 
 #Phylogenetic diversity
 require(picante) 
